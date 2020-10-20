@@ -47,6 +47,7 @@ Table of Contents
 * 4. **Fairness on Graphs**
 
   * 4.1. Individual Fairness
+  
     * `4.1.1. Operationalizing Individual Fairness with Pairwise Fair Representations <https://arxiv.org/pdf/1907.01439>`_
     
     * `4.1.1. InFoRM: Individual Fairness on Graph Mining <https://dl.acm.org/doi/abs/10.1145/3394486.3403080>`_
