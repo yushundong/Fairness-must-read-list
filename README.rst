@@ -35,8 +35,7 @@ Table of Contents
 
 * 2. **Group Fairness**
 
-  * `2.1. Books <#11-books>`_
-  * `2.2. Tutorials <#12-tutorials>`_
+  * `2.1. To be continued... <#11-books>`_
 
 
 * 3. **Counterfactual Fairness**
