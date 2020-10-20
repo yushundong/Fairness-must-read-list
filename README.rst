@@ -27,7 +27,9 @@ Table of Contents
 * 1. **Individual Fairness**
 
   * `1.1. Fairness Through Awareness <https://arxiv.org/pdf/1104.3913>`_
+  
   * `1.2. Learning Fair Representations <http://www.jmlr.org/proceedings/papers/v28/zemel13.pdf>`_
+  
   * `1.3. iFair: Learning Individually Fair Data Representations for Algorithmic Decision Making <https://arxiv.org/pdf/1806.01059>`_
 
 
