@@ -7,7 +7,7 @@ This repository collects:
 #. Group Fairness
 #. Counterfactual Fairness
 #. Fairness on Graphs
-
+#. Other Fairness Categories
 
 **More items will be added to the repository**.
 Enjoy reading!
