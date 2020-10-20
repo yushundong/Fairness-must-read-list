@@ -17,32 +17,32 @@ Enjoy reading!
 Table of Contents
 -----------------
 
-* 0. Fairness Survey
+* 0. **Fairness Survey**
 
   * `1.1. A survey on bias and fairness in machine learning <https://arxiv.org/pdf/1908.09635>`_
   * `1.2. Fairness in deep learning: a computational perspective <https://arxiv.org/pdf/1908.08843>`_
   
   
 
-* 1. Individual Fairness
+* 1. **Individual Fairness**
 
   * `1.1. Fairness Through Awareness <https://arxiv.org/pdf/1104.3913>`_
   * `1.2. Learning Fair Representations <http://www.jmlr.org/proceedings/papers/v28/zemel13.pdf>`_
   * `1.3. iFair: Learning Individually Fair Data Representations for Algorithmic Decision Making <https://arxiv.org/pdf/1806.01059>`_
 
 
-* 2. Group Fairness
+* 2. **Group Fairness**
 
   * `1.1. Books <#11-books>`_
   * `1.2. Tutorials <#12-tutorials>`_
 
 
-* 3. Counterfactual Fairness
+* 3. **Counterfactual Fairness**
 
   * `1.1. Counterfactual Fairness <http://papers.nips.cc/paper/6995-counterfactual-fairness.pdf>`_
   
   
-* 4. Fairness on Graphs <#1-books--tutorials>
+* 4. **Fairness on Graphs**
 
   * 4.1. Individual Fairness
     * `4.1.1. Operationalizing Individual Fairness with Pairwise Fair Representations <https://arxiv.org/pdf/1907.01439>`_
