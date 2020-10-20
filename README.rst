@@ -42,17 +42,12 @@ Table of Contents
   * `1.1. Counterfactual Fairness <http://papers.nips.cc/paper/6995-counterfactual-fairness.pdf>`_
   
   
-  
 * `4. Fairness on Graphs <#1-books--tutorials>`_
 
   * `4.1. Individual Fairness`_
     * `4.1.1. Operationalizing Individual Fairness with Pairwise Fair Representations <https://arxiv.org/pdf/1907.01439>`_
     * `4.1.1. InFoRM: Individual Fairness on Graph Mining <https://dl.acm.org/doi/abs/10.1145/3394486.3403080>`_
-    * `4.1.1. Individual Fairness`_
-    * `4.1.1. Individual Fairness`_
-    * `4.1.1. Individual Fairness`_
-    * `4.1.1. Individual Fairness`_
-    * `4.1.1. Individual Fairness`_
+
     
   * `4.2. Group Fairness`_
     * `4.2.1. Fairwalk: Towards Fair Graph Embedding <https://yangzhangalmo.github.io/papers/IJCAI19.pdf>`_
